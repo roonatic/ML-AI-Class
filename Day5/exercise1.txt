@@ -1,0 +1,5 @@
+emoji dataset을 읽어서 주어진 텍스트를 classify하여 적절한 emoji를 제안할 수 있다.
+torchtext의 IMDB, SST2, CoLA dataset을 로드하고 학습하여 classify힐 수 있다.
+
+https://pytorch.org/text/stable/datasets.html
+https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo#sample-lstm-code-sentiment-analysis-
